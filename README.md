@@ -9,8 +9,8 @@ chocolate-house
 │   README.md
 │   Dockerfile
 └─── src
-	  └─── app.py
-		   requirements.txt
+      |    requirements.txt
+      └─── app.py
 ```
 
 ## Execution
