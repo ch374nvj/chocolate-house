@@ -1,3 +1,8 @@
+# L7 Informatics Assignment
+# Author : Chetan Vinayaka J
+# USN    : 1MV21EC039
+# Sir MVIT
+
 import sqlite3
 
 conn = sqlite3.connect('chocolate_house.db')
